@@ -1,0 +1,24 @@
+Welcome to Text-Based Chess!
+Enter your moves in UCI format (e.g., e2e4). Type 'exit' to quit.
+
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+Turn: White
+Enter your move: e2e4
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+Turn: Black
